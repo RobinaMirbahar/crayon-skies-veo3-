@@ -69,7 +69,7 @@ README.md          → Project summary and usage
 1. **Write Scenes**: Use `/prompts/` folder to explore and edit Gemini prompts
 2. **Generate with Veo**: Feed prompts into Veo for scene generation
 
-   * 🔗 [Veo Studio](https://studio.youtube.com/veo)
+   * 🔗 [Veo Studio](https://deepmind.google/models/veo/)
 3. **Edit in CapCut**: Use `/video-edits/` timing to merge and transition clips
 4. **Export & Share**: Enjoy your cinematic Google Jet adventure!
 
