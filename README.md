@@ -28,6 +28,9 @@ Welcome to **Crayon Skies**, a 1-minute magical short film crafted using **Gemin
 | **Veo**    | Cinematic video creation            |
 | **CapCut** | Merging, trimming, and transitions  |
 
+🔗 [Veo by DeepMind](https://deepmind.google/models/veo/)
+🔗 [Veo API Docs (Vertex AI)](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview)
+
 ---
 
 ## 📖 Storyboard Overview
@@ -56,9 +59,10 @@ Welcome to **Crayon Skies**, a 1-minute magical short film crafted using **Gemin
 ## 🚀 Repository Structure
 
 ```
-
+/assets/           → Screenshots, concept art, crayon tests
 /prompts/          → Gemini prompts (scene1.md to scene6.md)
 /video-edits/      → CapCut project timing, transitions
+/storyboard.pdf    → Visual scene plan with thumbnails
 README.md          → Project summary and usage
 ```
 
@@ -66,15 +70,15 @@ README.md          → Project summary and usage
 
 ## 🎉 How to Use This Project
 
-1. **Write Scenes**: Use `/prompts/` folder to explore and edit Gemini prompts
+1. **Write Scenes**: Use [`/prompts/`](https://github.com/RobinaMirbahar/crayon-skies-veo3-/blob/main/prompts.md) to explore and edit Gemini prompts
 2. **Generate with Veo**: Feed prompts into Veo for scene generation
-
-   * 🔗 [Veo Studio](https://deepmind.google/models/veo/)
+   🔗 [Veo by DeepMind](https://deepmind.google/models/veo/)
+   🔗 [Veo 3 API Documentation (Vertex AI)](https://cloud.google.com/vertex-ai/generative-ai/docs/models/veo/3-0-generate-preview)
 3. **Edit in CapCut**: Use `/video-edits/` timing to merge and transition clips
 4. **Export & Share**: Enjoy your cinematic Google Jet adventure!
 
-> 📄 [Storyboard & Docs](https://docs.google.com/document/d/1yKXHCEci8jmhXQNFwX3YrNSLUIeCKPib0E1frd-CB6E/edit?usp=sharing)
-> 📂 [Prompts Folder](https://github.com/your-repo/prompts)
+📄 [Storyboard & Docs](https://github.com/RobinaMirbahar/crayon-skies-veo3)
+📂 [Prompt Files](https://github.com/RobinaMirbahar/crayon-skies-veo3-/blob/main/prompts.md)
 
 ---
 
@@ -86,15 +90,16 @@ README.md          → Project summary and usage
 
 Let this story be a reminder that AI-powered creativity belongs to everyone — especially those with wild ideas and big hearts.
 
----
-
 **Made with imagination, powered by Gemini + Veo, polished in CapCut.**
 
 ---
 
 ## 👩‍💻 Author
-Robina Mirbahar
-Google Developer Expert (AI/ML)
-Google Cloud Champion Innovator – Modern Architecture
+
+**Robina Mirbahar**
+Google Developer Expert (AI/ML) • Google Cloud Champion Innovator – Modern Architecture
 Technical Writer & Cloud Architect
-LinkedIn | Medium | GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/robinamirbahar)
+🔗 [Instagram](https://instagram.com/robinamirbahar)
+🔗 [Medium](https://medium.com/@robinamirbahar)
+🔗 [GitHub](https://github.com/RobinaMirbahar)
