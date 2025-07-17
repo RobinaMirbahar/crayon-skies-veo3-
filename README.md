@@ -27,7 +27,7 @@ Welcome to **Crayon Skies**, a 1-minute magical short film crafted using **Gemin
 | Tool       | Purpose                             |
 | ---------- | ----------------------------------- |
 | **Gemini** | Scene scripting & prompt generation |
-| **Veo**    | Cinematic video creation            |
+| **Veo 3**    | Cinematic video creation            |
 | **CapCut** | Merging, trimming, and transitions  |
 
 🔗 [Veo by DeepMind](https://deepmind.google/models/veo/)
