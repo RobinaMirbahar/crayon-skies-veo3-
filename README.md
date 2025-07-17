@@ -56,10 +56,9 @@ Welcome to **Crayon Skies**, a 1-minute magical short film crafted using **Gemin
 ## 🚀 Repository Structure
 
 ```
-/assets/           → Screenshots, concept art, crayon tests
+
 /prompts/          → Gemini prompts (scene1.md to scene6.md)
 /video-edits/      → CapCut project timing, transitions
-/storyboard.pdf    → Visual scene plan with thumbnails
 README.md          → Project summary and usage
 ```
 
@@ -93,9 +92,9 @@ Let this story be a reminder that AI-powered creativity belongs to everyone — 
 
 ---
 
-## 👩‍💻 Created By
-
-**Robina Mirbahar**
-Google Developer Expert
-🔗 [Instagram](https://instagram.com/robinamirbahar)
-🔗 [LinkedIn](https://www.linkedin.com/in/robinamirbahar)
+## 👩‍💻 Author
+Robina Mirbahar
+Google Developer Expert (AI/ML)
+Google Cloud Champion Innovator – Modern Architecture
+Technical Writer & Cloud Architect
+LinkedIn | Medium | GitHub
