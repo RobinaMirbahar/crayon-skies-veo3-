@@ -59,10 +59,8 @@ Welcome to **Crayon Skies**, a 1-minute magical short film crafted using **Gemin
 ## 🚀 Repository Structure
 
 ```
-/assets/           → Screenshots, concept art, crayon tests
 /prompts/          → Gemini prompts (scene1.md to scene6.md)
 /video-edits/      → CapCut project timing, transitions
-/storyboard.pdf    → Visual scene plan with thumbnails
 README.md          → Project summary and usage
 ```
 
