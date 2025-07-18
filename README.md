@@ -4,7 +4,7 @@
 
 > “One girl. One crayon. One very curious jet.”
 
-Welcome to **Crayon Skies**, a 1-minute magical short film crafted using **Gemini prompts**, brought to life with **Veo video generation**, and finalized through **CapCut editing**. This cinematic story follows a 6-year-old South Asian girl whose crayon doodles spark an unbelievable adventure.
+Welcome to **Crayon Skies**, a 1-minute magical short story crafted using **Gemini prompts**, brought to life with **Veo video generation**, and finalized through **CapCut editing**. This cinematic story follows a 6-year-old South Asian girl whose crayon doodles spark an unbelievable adventure.
 
 ---
 
