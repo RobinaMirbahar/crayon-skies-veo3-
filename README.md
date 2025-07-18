@@ -1,4 +1,4 @@
-# ✨ Crayon Skies: A Veo + Gemini Storyboard Adventure
+# ✨ Crayon Skies: A Veo 3 + Gemini Storyboard Adventure
 
 [📺 Watch the Short Film on YouTube](https://youtu.be/qwILtvTzofc)
 
